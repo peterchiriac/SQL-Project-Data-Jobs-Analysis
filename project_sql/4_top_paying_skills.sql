@@ -15,11 +15,11 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 WHERE
     job_title_short = 'Data Analyst'
     AND salary_year_avg IS NOT NULL
-    --AND job_work_from_home = True
+    AND job_work_from_home = True
 GROUP BY
     skills
 ORDER BY
-    avg_salary
+    avg_salary DESC
 LIMIT 25;
 /*
 Here's a breakdown of the results for top paying skills:
@@ -34,3 +34,4 @@ Seaborn ($77,500), and Plotly ($78,750) significantly boosts earning potential.
 •	Skills in web technologies such as Express ($80,000) and CSS ($52,500),
  as well as general tools like SharePoint ($81,634) and Word ($82,576),
 are highly valued.​⬤
+*/
