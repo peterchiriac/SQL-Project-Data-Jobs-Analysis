@@ -20,7 +20,7 @@ GROUP BY
     skills
 ORDER BY
     avg_salary
-LIMIT 25
+LIMIT 25;
 /*
 Here's a breakdown of the results for top paying skills:
 1.	Programming and Database Technologies:

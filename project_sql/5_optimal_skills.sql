@@ -49,7 +49,7 @@ WHERE
 ORDER BY
     avg_salary DESC,
     demand_count DESC
-    LIMIT 25
+    LIMIT 25;
 
 -- rewriting this same query more concisely
 
