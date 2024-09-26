@@ -19,8 +19,8 @@ Data hails from the [SQL Course](https://www.lukebarousse.com/sql). It consists 
 
 # Tools I Used
 
-- **SQL:** The backbone of my analysis, allowing me to query the data base and reveal critical insights.
-- PostgreSQL: The chosen database management systm, ideal for handling the job posting data.
+- **SQL:** The backbone of my analysis, allowing me to query the database and reveal critical insights.
+- PostgreSQL: The chosen database management system, ideal for handling the job posting data.
 - Visual Studio Code: My go-to data base management and eecuting SQL queries.
 - Git & GitHub: Essential for version control and sharing my SQL scripts and anaysis, ensuring collaboration and project tracking.
 
