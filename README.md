@@ -66,9 +66,7 @@ offering high salaries, showing a broad interest across different industries.
 To understand what skills are required for top paying jobs, I joined to job postings with the skills data, providing insights into what employers value for high-compensation roles.
 
 ```
-WITH
-    top_paying_jobs AS (
-
+  WITH top_paying_jobs AS (
     SELECT
         job_id,
         job_title,
@@ -81,19 +79,17 @@ WITH
         job_title_short = 'Data Analyst' AND
         job_location = 'Anywhere' AND
         salary_year_avg IS NOT NULL
-    ORDER BY
-        salary_year_avg DESC
-    LIMIT 10
 )
 
 SELECT
     top_paying_jobs.*,
-    skills
+    skills_dim.skills
 FROM top_paying_jobs
-INNER JOIN  skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
+INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY    
     salary_year_avg DESC
+LIMIT 10;
 ```
 
 Here's the breakdown for the top 10 Most mentioned skills for data analyst jobs in 2023:
