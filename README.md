@@ -67,7 +67,7 @@ To understand what skills are required for top paying jobs, I joined to job post
 
 ```
 WITH
-    top_paying_jobs As (
+    top_paying_jobs AS (
 
     SELECT
         job_id,
