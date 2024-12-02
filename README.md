@@ -21,8 +21,8 @@ Data hails from the [SQL Course](https://www.lukebarousse.com/sql). It consists 
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and reveal critical insights.
 - PostgreSQL: The chosen database management system, ideal for handling the job posting data.
-- Visual Studio Code: My go-to data base management and eecuting SQL queries.
-- Git & GitHub: Essential for version control and sharing my SQL scripts and anaysis, ensuring collaboration and project tracking.
+- Visual Studio Code: My go-to data base management and executing SQL queries.
+- Git & GitHub: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market.
@@ -242,4 +242,4 @@ indicating significant salary potential in the field.
 **4. Big Data and Data Processing** Tools like PySpark ($208,172) and Databricks ($141,907) offer the highest salaries, highlighting the importance of big data expertise.
 **5.Go and Confluence** Top the list with average salaries of $115,320 and $114,210, reflecting their high demand in tech and project management.
 
-### This project allowed me to hone and refine my SQL skills. Furthermore, it provided valuable insights into the data analyst job market. These findings serve as a map in my journey revealing the relevant skills I need to develop for the industry. Armed with this knowedge, I can better position myself in a competitive market by prioritizing high-demand, high-salary skills. This exploration highlights the importance of continuous learning and staying updated to emerging trends in the field of data analytics.
+### This project allowed me to hone and refine my SQL skills. Furthermore, it provided valuable insights into the data analyst job market. These findings serve as a map in my journey revealing the relevant skills I need to develop for the industry. Armed with this knowledge, I can better position myself in a competitive market by prioritizing high-demand, high-salary skills. This exploration highlights the importance of continuous learning and staying updated to emerging trends in the field of data analytics.
