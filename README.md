@@ -226,7 +226,7 @@ LIMIT 25;
 This table reflects the demand and average salaries for top skills in data analysis, highlighting the importance of expertise in cloud platforms, programming, and data management tools.
 
 
-# What I learned
+What I learned
 -** Advanced SQL queries:** Mastered complex queries, leveraging JOINs and temporary tables with WITH clauses.  
 -** Data Aggregation:** Gained proficiency in GROUP BY, using aggregate functions like COUNT() and AVG() to summarize insights effectively.     
 -** Analytical Ability: Enhanced analytical thinking, translating real-world questions into actionable SQL solutions.  
