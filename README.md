@@ -91,10 +91,10 @@ LIMIT 10;
 
 Here's the breakdown for the top 10 Most mentioned skills for data analyst jobs in 2023:
 
-•SQL: The most frequently mentioned skill with 8 mentions, essential for managing and querying databases.
-•Python: Highly demanded with 7 mentions for its versatility in data analysis, machine learning, and scripting.
-•Tableau: A key tool for data visualization with 6 mentions, crucial for presenting data insights effectively.
-•Other skills such as R, Snowflake, and Excel show varying degrees of demand.
+•SQL: The most frequently mentioned skill with 8 mentions, essential for managing and querying databases.  
+•Python: Highly demanded with 7 mentions for its versatility in data analysis, machine learning, and scripting.  
+•Tableau: A key tool for data visualization with 6 mentions, crucial for presenting data insights effectively.  
+•Other skills such as R, Snowflake, and Excel show varying degrees of demand.  
 
 ![Top Most Mentioned Skills](project_sql/Assets/most_mentioned_skills.png)
 *Bar graph visualising the most mentioned skills for data analysts. ChatGPT generated this graphs from my query results*
