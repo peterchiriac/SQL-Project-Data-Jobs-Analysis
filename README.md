@@ -121,11 +121,11 @@ LIMIT 5;
 
 Here's the breakdown of the most demanded skills for data analysts in 2023.
 
-•SQL: The most in-demand skill with 92,628 mentions, highlighting its critical role in database management and querying.
-•Excel: Highly valued with 67,031 mentions, emphasizing its importance in data organization, analysis, and reporting.
-•Python: With 57,326 mentions, Python is essential for data analysis, automation, and machine learning.
-•Tableau: Garnering 46,554 mentions, Tableau is a key tool for data visualization and storytelling.
-•Power BI: With 39,468 mentions, Power BI is crucial for creating interactive and business-focused data visualizations.
+•SQL: The most in-demand skill with 92,628 mentions, highlighting its critical role in database management and querying.  
+•Excel: Highly valued with 67,031 mentions, emphasizing its importance in data organization, analysis, and reporting.  
+•Python: With 57,326 mentions, Python is essential for data analysis, automation, and machine learning.  
+•Tableau: Garnering 46,554 mentions, Tableau is a key tool for data visualization and storytelling.  
+•Power BI: With 39,468 mentions, Power BI is crucial for creating interactive and business-focused data visualizations.  
 
 | Skills    | Demand Count |
 |-----------|--------------|
@@ -160,9 +160,9 @@ LIMIT 25;
 ```
 Here's a breakdown of the results for top paying skills for Data Analysts:
 
-•Big Data and Data Processing: Tools like PySpark ($208,172) and Databricks ($141,907) offer the highest salaries, highlighting the importance of big data expertise.
-•Version Control and Collaboration: Skills in tools like Bitbucket ($189,155) and GitLab ($154,500) are highly valued for managing code and teamwork.
-•Machine Learning and AI: Proficiency in AI tools like Watson ($160,515) and machine learning libraries like Scikit-learn ($125,781) is crucial for top-paying roles.
+•Big Data and Data Processing: Tools like PySpark ($208,172) and Databricks ($141,907) offer the highest salaries, highlighting the importance of big data expertise.  
+•Version Control and Collaboration: Skills in tools like Bitbucket ($189,155) and GitLab ($154,500) are highly valued for managing code and teamwork.  
+•Machine Learning and AI: Proficiency in AI tools like Watson ($160,515) and machine learning libraries like Scikit-learn ($125,781) is crucial for top-paying roles.  
 
 | Skills         | Average Salary (USD) |
 |----------------|----------------------|
@@ -206,9 +206,9 @@ ORDER BY
 LIMIT 25;
 ```
 
-•Go and Confluence: Top the list with average salaries of $115,320 and $114,210, reflecting their high demand in tech and project management.
-•Cloud Platforms: Skills like Snowflake, Azure, and AWS are highly valued, with salaries ranging from $108,317 to $112,948, indicating the importance of cloud expertise.
-•Data Tools: Hadoop, BigQuery, and Looker command competitive salaries, emphasizing their critical role in managing and analyzing large datasets.
+•Go and Confluence: Top the list with average salaries of $115,320 and $114,210, reflecting their high demand in tech and project management.  
+•Cloud Platforms: Skills like Snowflake, Azure, and AWS are highly valued, with salaries ranging from $108,317 to $112,948, indicating the importance of cloud expertise.  
+•Data Tools: Hadoop, BigQuery, and Looker command competitive salaries, emphasizing their critical role in managing and analyzing large datasets.  
 
 | Skills     | Demand Count | Average Salary (USD) |
 |------------|--------------|----------------------|
@@ -237,4 +237,4 @@ What I learned
 **4. Big Data and Data Processing** PySpark and Databricks lead the way in salaries, emphasizing the importance of data processing.  
 **5. Tech and management skills** Tools like Go and Confluence command high salaries, highlighting their value in the industry.  
 
-### This project allowed me to hone and refine my SQL skills. Furthermore, it provided valuable insights into the data analyst job market. These findings serve as a map in my journey revealing the relevant skills I need to develop for the industry. Armed with this knowledge, I can better position myself in a competitive market by prioritizing high-demand, high-salary skills. This exploration highlights the importance of continuous learning and staying updated to emerging trends in the field of data analytics.
+This project allowed me to hone and refine my SQL skills. Furthermore, it provided valuable insights into the data analyst job market. These findings serve as a map in my journey revealing the relevant skills I need to develop for the industry. Armed with this knowledge, I can better position myself in a competitive market by prioritizing high-demand, high-salary skills. This exploration highlights the importance of continuous learning and staying updated to emerging trends in the field of data analytics.
