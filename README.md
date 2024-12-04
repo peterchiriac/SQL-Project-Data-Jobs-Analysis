@@ -58,8 +58,6 @@ LIMIT 10
 -**Diverse Employers:** Companies like Meta, AT&T, and SmartAsset lead the list.  
 -**Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specialisations within data analytics.  
 
-![Top Paying Roles](project_sql/Assets/top_paying_jobs.png)
-*Bar graph visualising the salary for the top salaries for data analysts. ChatGPT generated this graphs from my query results*
 
 ### 2. Top Paying Skills
 To understand what skills are required for top paying jobs, I joined to job postings with the skills data, providing insights into what employers value for high-compensation roles.
