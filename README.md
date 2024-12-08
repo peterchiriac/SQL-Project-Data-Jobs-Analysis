@@ -1,4 +1,6 @@
 # Introduction
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=sqlite&logoColor=white&style=flat-square)
+
 📊 Exploring the Data Job Market
 This project analyses data analyst roles, uncovering top-paying jobs, high-demand skills, and where lucrative opportunities meet industry needs.
 
